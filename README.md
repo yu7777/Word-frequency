@@ -1,3 +1,5 @@
 # Word-frequency
+extracted from word frequency dictionaries.   
 提取自词频词典   
-IMDB口语词频库 基于IMDB影视库10W字幕共6亿单词统计而来
+IMDB口语词频库 基于IMDB影视库10W字幕共6亿单词统计而来.     
+iWeb60000  
